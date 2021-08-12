@@ -1,6 +1,5 @@
 ## ![Snake animation](https://img.icons8.com/color/64/000000/code.png)
 <div>
-  <a href="https://github.com/tiagojorgep">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagojorgep&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagojorgep&layout=complete&langs_count=7&theme=dark&count_private=true"/>
 </div>
