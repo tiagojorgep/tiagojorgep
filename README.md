@@ -1,5 +1,5 @@
 ## ![Snake animation](https://img.icons8.com/color/64/000000/code.png)
- <div>
+<div>
   <a href="https://github.com/tiagojorgep">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagojorgep&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagojorgep&layout=complete&langs_count=7&theme=dark&count_private=true"/>
@@ -7,6 +7,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="AWS" height="40" width="auto" src="img/aws-2.svg">&nbsp;
   <img align="center" alt="AWS Lambda" height="40" width="auto" src="img/aws-lambda-1.svg">&nbsp;
+  <img align="center" alt="Docker" height="40" width="auto"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">&nbsp;
+  <img align="center" alt="Serverless" height="40" width="auto" src="img/serverless-icon.svg">&nbsp;
   <img align="center" alt="Debian" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">&nbsp;
   <img align="center" alt="PHP" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">&nbsp;
   <img align="center" alt="Dart" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">&nbsp;
@@ -15,9 +17,7 @@
   <img align="center" alt="NodeJS" height="40" width="auto"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">&nbsp;
   <img align="center" alt="TypeScript" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">&nbsp;
   <img align="center" alt="Angular" height="40" width="auto"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">&nbsp;
-  <img align="center" alt="Docker" height="40" width="auto"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">&nbsp;
-  <img align="center" alt="Docker" height="40" width="auto"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">&nbsp;
-</div>
+  <img align="center" alt="Bootstrap" height="40" width="auto"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">&nbsp;
 </div>
   
   ##
